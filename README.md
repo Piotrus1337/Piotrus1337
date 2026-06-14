@@ -41,7 +41,6 @@ Currently I'm working with:
 ![SOAP](https://img.shields.io/badge/SOAP-6A5ACD?style=for-the-badge)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge\&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit_API-2E7D32?style=for-the-badge)
 
 ### Build Tools
 
